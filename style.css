@@ -1,0 +1,24 @@
+
+img{
+max-width: 100px; 
+max-height: 100px;}
+
+.header{
+    max-width: 1900px;
+    background: #555555;
+}
+
+footer{
+    position: fixed;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    width: 100%;
+    background-color: rgb(17, 226, 230);
+}
+   
+   
+    
+
+
